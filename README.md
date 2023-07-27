@@ -7,9 +7,9 @@ This project focuses on utilizing the Scikit-Learn library to scale data and app
 A dataset that has been collected from the Spotify API and contains the audio features (tempo, energy, danceability…) for a few thousand songs.
 
 - Step 1 Data preparation:
- - Reading the data
- - Initial quick exploration
- - Dropping unwanted song features
+  - Reading the data
+  - Initial quick exploration
+  - Dropping unwanted song features
 
 - Step 2 Modelling:
   - Data scaling (potentially, other transformations)
