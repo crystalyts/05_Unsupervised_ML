@@ -2,10 +2,6 @@
 
 This project focuses on utilizing the Scikit-Learn library to scale data and apply K-means clustering to create clusters of songs. These clusters are then used to automatically generate playlists.
 
-## Data
-
-A dataset that has been collected from the Spotify API and contains the audio features (tempo, energy, danceability…) for a few thousand songs.
-
 - Step 1 Data preparation:
   - Reading the data
   - Initial quick exploration
@@ -20,5 +16,8 @@ A dataset that has been collected from the Spotify API and contains the audio fe
 9 playlists (clusters) are created with similar mood and uploaded to Spotify.
 
 ---
+### Data
+
+A dataset that has been collected from the Spotify API and contains the audio features (tempo, energy, danceability…) for a few thousand songs.
 
 Data [Download](https://drive.google.com/drive/u/0/folders/1jTcYdTeNFPw_onwh2__zXU_hEj3d3-HL)
